@@ -1,17 +1,18 @@
 //*****************************************************************************
 //Modified version of timers.c
 //*****************************************************************************
+
 #include <stdint.h>
 #include <stdbool.h>
 #include "driverlib/gpio.h"
-#include "inc/hw_ints.h"
-#include "inc/hw_memmap.h"
-#include "inc/hw_types.h"
 #include "driverlib/interrupt.h"
 #include "driverlib/rom.h"
 #include "driverlib/rom_map.h"
 #include "driverlib/sysctl.h"
 #include "driverlib/timer.h"
+#include "inc/hw_ints.h"
+#include "inc/hw_memmap.h"
+#include "inc/hw_types.h"
 #include "grlib/grlib.h"
 #include "drivers/kentec320x240x16_ssd2119.h"
 #include "drivers/pinout.h"

@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker PC v16.9.0                     
 ******************************************************************************
->> Linked Tue Mar 07 21:10:04 2017
+>> Linked Wed Mar 08 12:42:09 2017
 
 OUTPUT FILE NAME:   <modifiedBlinky.out>
 ENTRY POINT SYMBOL: "_c_int00"  address: 00000cc9
